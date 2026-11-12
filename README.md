@@ -16,7 +16,7 @@ I am currently working on a real time lecture transcriber. It's made to suppleme
 ## You can reach me here 
 
 
-Gmail:  IsiakaTaofeeeq@gmail.com LinkedIn : https://www.linkedin.com/in/isiaka-taofeeq  
+Gmail:  IsiakaTaofeeeq500@gmail.com LinkedIn : https://www.linkedin.com/in/isiaka-taofeeq  
 
 
 
