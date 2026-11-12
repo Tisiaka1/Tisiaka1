@@ -1,7 +1,22 @@
-## Hey there welcome to Taofeeq isiaka toolbox.
---- 
-## Introduction 
-My name is Taofeeq Isiaka, I'm a junior at Indiana University, I am current studying Computer Science with a minor in  Physics + Math. I am really obsessed with building things  and I get a  massive dopamine hit from seeing systems fall into place.  
+## Hey there 👋
+
+## About me 
+* My favorite part about Software Engineering is collaborating in a team 
+* </> My favorite Programing language is c++ 
+* Aside from computer science I am obsessed with History and Finance.
+  
+
+
+
+
+## currently working on 
+I am currently working on a real time lecture transcriber. It's made to supplement students note, giving more in depth explanation on the topics being covered in the classroom. 
+
+
+
+
+
+
 
 
 
