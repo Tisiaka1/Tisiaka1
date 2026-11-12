@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there welcome to Taofeeq isiaka toolbox.
+--- 
+## Introduction 
+My name is Taofeeq Isiaka, I'm a junior at Indiana University, I am current studying Computer Science with a minor in  Physics + Math. I am really obsessed with building things  and I get a  massive dopamine hit from seeing systems fall into place.  
+
+
+
+
+
+
 
 <!--
 **Tisiaka1/Tisiaka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
