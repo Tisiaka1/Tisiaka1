@@ -2,7 +2,7 @@
 
 ## About me 
 * My favorite part about Software Engineering is collaborating in a team 
-* </> My favorite Programing language is c++ 
+*  My favorite Programing language is c++ 
 * Aside from computer science I am obsessed with History and Finance.
   
 
