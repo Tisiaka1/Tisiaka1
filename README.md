@@ -16,7 +16,7 @@ I am currently working on a real time lecture transcriber. It's made to suppleme
 ## You can reach me here 
 
 
-<a> IsiakaTaofeeeq@gmail.com <img src='https://commons.wikimedia.org/wiki/File:Gmail_2020.png'> </a>
+<img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/00d2a7e2-23f6-488a-90fd-f00af3ac2e30" /> IsiakaTaofeeeq@gmail.com
 
 
 
