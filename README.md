@@ -13,6 +13,10 @@
 I am currently working on a real time lecture transcriber. It's made to supplement students note, giving more in depth explanation on the topics being covered in the classroom. 
 
 
+## You can reach me here 
+
+
+<a> IsiakaTaofeeeq@gmail.com <img src='https://commons.wikimedia.org/wiki/File:Gmail_2020.png'> </a>
 
 
 
