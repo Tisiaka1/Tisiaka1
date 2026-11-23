@@ -10,7 +10,7 @@
 
 
 ## currently working on 
-I am currently working on a real time lecture transcriber. It's made to supplement students note, giving more in depth explanation on the topics being covered in the classroom. 
+I am currently working on a real time lecture transcriber(ThreeDee) Made using the .Net framework(c#). It's made to supplement students note, giving more in depth explanation on the topics being covered in the classroom. 
 
 
 ## You can reach me here 
